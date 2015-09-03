@@ -13,6 +13,7 @@ public class App
     {
         List<String> myList = Arrays.asList("element1", "element2",
                 "element3", "elem 4/3",
+                "element5", "elem 7/6",
                 "ELEMENT 8", "999");
 
         myList.forEach(element -> System.out.println(element));
